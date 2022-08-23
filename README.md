@@ -91,21 +91,21 @@ We also randomly choose 10 pictures for testing, see result in `output/mlnet`.
 The result is shown below :
 
 <div align=center>
-    <img src="./assets/result_itti.png", width=72%>
+    <img src="./assets/result_itti.png", width=51%>
     <br>Result of ITTI
 </div>
 
 The result is shown by the sequence of: the real image, the ground true image, the result.
 
 <div align=center>
-    <img src="./assets/result_mdc.png", width=96%>
+    <img src="./assets/result_mdc.png", width=68%>
     <br>Result of MDC
 </div>
 
 The result is shown by the sequence of: the real image, the ground true image, the result, the result with image enhancement.
 
 <div align=center>
-    <img src="./assets/result_mlnet.jpg", width=64%>
+    <img src="./assets/result_mlnet.jpg", width=55%>
     <br>Result of MLNet
 </div>
 
