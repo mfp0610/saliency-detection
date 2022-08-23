@@ -115,7 +115,7 @@ The result is shown by the sequence of: the real image, the ground true image, t
 
 Mail me at [HUST-Mail](fanpengmeng@hust.edu.cn) or [Gmail](fpmeng0610@gmail.com)
 
-## Citation
+## Referenc
 
 The following works are appreciated for great credit to my work:
 
